@@ -1,0 +1,43 @@
+body {
+  width: 100%;
+  margin: auto;
+  height: auto;
+  background: #6C809A
+}
+header {
+  width: 100%;
+  height: auto;
+  padding: 10px;
+  margin-bottom: 15px;
+  text-align: center;
+  background-color: #E3E4DB
+}
+.header-elmt {
+  color: #4A2545
+}
+.intro-section {
+  display: flex;
+  flex-direction: column;
+}
+.img-container {
+  width: 50%;
+  height: auto;
+  margin: 10px;
+  align-self: center;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+h2, h3 {
+  text-align: center;
+  color: #E3E4DB;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p, a {
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+footer {
+  width: 100%;
+}
